@@ -144,7 +144,7 @@ If you use ZSI in your research or wish to refer to the baseline results publish
 
 @InProceedings{zhengye2021zsi,
   author  =  {Ye, Zheng and Jiahong, Wu and Yongqiag, Qin and Faen, Zhang and Li, Cui},
-  title   =  {Zero-shot instance segmentation},
+  title   =  {Zero-shot Instance Segmentation},
   booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   month = {June},
   year = {2021}
