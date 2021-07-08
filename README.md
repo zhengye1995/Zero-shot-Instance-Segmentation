@@ -142,12 +142,13 @@ If you use ZSI in your research or wish to refer to the baseline results publish
 
 ```BibTeX
 
-@InProceedings{zhengye2021zsi,
-  author  =  {Ye, Zheng and Jiahong, Wu and Yongqiag, Qin and Faen, Zhang and Li, Cui},
-  title   =  {Zero-shot Instance Segmentation},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2021}
+@InProceedings{Zheng_2021_CVPR,
+    author    = {Zheng, Ye and Wu, Jiahong and Qin, Yongqiang and Zhang, Faen and Cui, Li},
+    title     = {Zero-Shot Instance Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {2593-2602}
 }
 
 ```
