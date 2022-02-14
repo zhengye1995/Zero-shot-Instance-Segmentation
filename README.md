@@ -123,11 +123,11 @@ python setup.py develop
             - evaluate:
                 - for gzsd
                     ```
-                    python tools/gzsi_coco_eval.py results/gzsi_65_15.bbox.json --ann data/coco/annotations/instances_val2014_gzsi_65_15.json --gzsd --num-seen-classes 65
+                    python tools/gzsi_coco_eval.py results/gzsi_65_15.bbox.json --ann data/coco/annotations/instances_val2014_gzsi_65_15.json --gzsi --num-seen-classes 65
                     ```
                 - for gzsi
                     ```
-                    python tools/gzsi_coco_eval.py results/gzsi_65_15.segm.json --ann data/coco/annotations/instances_val2014_gzsi_65_15.json --gzsd --num-seen-classes 65 --types segm
+                    python tools/gzsi_coco_eval.py results/gzsi_65_15.segm.json --ann data/coco/annotations/instances_val2014_gzsi_65_15.json --gzsi --num-seen-classes 65 --types segm
                     ```
 
 
