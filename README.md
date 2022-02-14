@@ -80,7 +80,7 @@ python setup.py develop
             - inference:
                 ```
                 chmod +x tools/dist_test.sh
-                ./toools/dist_test.sh configs/zsi/65_15/test/zsi/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_65_15_decoder_notanh.py checkpoints/ZSI_65_15.pth 4 --json_out results/zsi_65_15.json
+                ./tools/dist_test.sh configs/zsi/65_15/test/zsi/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_65_15_decoder_notanh.py checkpoints/ZSI_65_15.pth 4 --json_out results/zsi_65_15.json
                 ```
             - our results zsi_65_15.bbox.json and zsi_65_15.segm.json can also downloaded from [zsi_65_15_reults](https://drive.google.com/drive/folders/1ZoFP2ihGhgbVdzagC0M9AVUlXAMmYGRO?usp=sharing).
             - evaluate:
