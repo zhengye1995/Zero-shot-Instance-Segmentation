@@ -43,13 +43,13 @@ python setup.py develop
      - 48/17 split:
        ```
           chmod +x tools/dist_train.sh
-          ./tools/dist_train.sh configs/zsi/train/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_decoder.py 4
+          ./tools/dist_train.sh configs/zsi/48_17/train/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_decoder.py 4
         ```
         
     - 65/15 split:
       ```
       chmod +x tools/dist_train.sh
-      ./tools/dist_train.sh configs/zsi/train/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_65_15_decoder_notanh.py 4
+      ./tools/dist_train.sh configs/zsi/65_15/train/zero-shot-mask-rcnn-BARPN-bbox_mask_sync_bg_65_15_decoder_notanh.py 4
       ```
           
 - **Inference & Evaluate**:
